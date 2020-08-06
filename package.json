@@ -10,9 +10,10 @@
   "dependencies": {
     "parcel": "^1.12.4",
     "redux": "^4.0.5",
-    "three.js": "^0.77.1"
+    "three": "^0.119.1"
   },
   "devDependencies": {
+    "sass": "^1.26.10",
     "typescript": "^3.9.7"
   }
 }
