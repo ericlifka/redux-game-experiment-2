@@ -10,6 +10,8 @@
   "dependencies": {
     "parcel": "^1.12.4",
     "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
     "three": "^0.119.1"
   },
   "devDependencies": {
